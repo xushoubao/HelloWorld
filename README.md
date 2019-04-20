@@ -1,4 +1,4 @@
 # HelloWorld
-This is a hello world program for test. 
+This is the hello world program. 
 
 I do some change for readme.
